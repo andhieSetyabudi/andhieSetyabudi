@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/andri-setyabudi-ba16a618/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-128.png" alt="andri setyabudi" height="40" width="40" /></a>
 <a href="https://github.com/andhieSetyabudi" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-256.png" alt="ngtuetam" height="40" width="40" /></a>
 <!--
-**ngtuetam/ngtuetam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**andhieSetyabudi/andhieSetyabudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Tue Tam Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngtuetam&count_private=true&theme=react&show_icons=true)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngtuetam&layout=compact&theme=react)](https://github.com/ngtuetam/github-readme-stats)
+![Andhie Setyabudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=andhieSetyabudi&count_private=true&theme=react&show_icons=true)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andhieSetyabudi&layout=compact&theme=react)](https://github.com/andhieSetyabudi/github-readme-stats)
 
-![Tue Tam Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngtuetam&count_private=true&theme=react&show_icons=true)   
+![Andhie Setyabudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=andhieSetyabudi&count_private=true&theme=react&show_icons=true)   
